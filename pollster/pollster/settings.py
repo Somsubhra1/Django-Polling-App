@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'w(=$lf$!7%4o4j*c=j#k%97py^#7fpg3we$2o&xtvzn((my0zp'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["pollsapp-awesome.herokuapp.com"]
 
