@@ -1,0 +1,1 @@
+web: gunicorn --chdir ./pollster pollster.wsgi
