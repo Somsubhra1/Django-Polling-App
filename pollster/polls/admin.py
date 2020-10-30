@@ -10,6 +10,8 @@ admin.site.index_title = "Welcome to Pollster admin area"
 # admin.site.register(Question)
 # admin.site.register(Choice)
 
+# Customizing admin site area
+
 
 class ChoiceInline(admin.TabularInline):
     model = Choice
